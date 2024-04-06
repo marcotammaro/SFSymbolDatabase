@@ -1,0 +1,1028 @@
+[
+    {
+        "sfsymbol": "mic.square.fill",
+        "name": "Mic",
+        "category": "Communication",
+        "keywords": "microphone mic voice record sound"
+    },
+    {
+        "sfsymbol": "bubble.fill",
+        "name": "Message bubble",
+        "category": "Communication",
+        "keywords": "message bubble chat talk"
+    },
+    {
+        "sfsymbol": "quote.bubble.fill",
+        "name": "Quote message bubble",
+        "category": "Communication",
+        "keywords": "message bubble chat talk quote"
+    },
+    {
+        "sfsymbol": "envelope.fill",
+        "name": "Envelope",
+        "category": "Communication",
+        "keywords": "envelope mail message letter"
+    },
+    {
+        "sfsymbol": "field.of.view.wide.fill",
+        "name": "View",
+        "category": "Communication",
+        "keywords": "view eye look wide"
+    },
+    {
+        "sfsymbol": "sun.max.fill",
+        "name": "Bright Sun",
+        "category": "Nature",
+        "keywords": "sun bright sunny weather"
+    },
+    {
+        "sfsymbol": "sunrise.fill",
+        "name": "Sunrise",
+        "category": "Nature",
+        "keywords": "sunrise morning sun dawn"
+    },
+    {
+        "sfsymbol": "sunset.fill",
+        "name": "Sunset",
+        "category": "Nature",
+        "keywords": "sunset evening sun dusk"
+    },
+    {
+        "sfsymbol": "moon.fill",
+        "name": "Full Moon",
+        "category": "Nature",
+        "keywords": "moon fullmoon night sky"
+    },
+    {
+        "sfsymbol": "cloud.heavyrain.fill",
+        "name": "Heavy Rain",
+        "category": "Nature",
+        "keywords": "cloud rain heavy weather"
+    },
+    {
+        "sfsymbol": "cloud.sun.fill",
+        "name": "Cloudy Sun",
+        "category": "Nature",
+        "keywords": "cloud sun cloudy weather"
+    },
+    {
+        "sfsymbol": "hurricane",
+        "name": "Hurricane",
+        "category": "Nature",
+        "keywords": "hurricane storm wind"
+    },
+    {
+        "sfsymbol": "rainbow",
+        "name": "Rainbow",
+        "category": "Nature",
+        "keywords": "rainbow sky colors weather"
+    },
+    {
+        "sfsymbol": "thermometer.medium",
+        "name": "Thermometer",
+        "category": "Nature",
+        "keywords": "thermometer temperature weather"
+    },
+    {
+        "sfsymbol": "aqi.medium",
+        "name": "Air Quality",
+        "category": "Nature",
+        "keywords": "air quality pollution weather"
+    },
+    {
+        "sfsymbol": "snowflake",
+        "name": "Snowflake",
+        "category": "Nature",
+        "keywords": "snow snowflake cold weather"
+    },
+    {
+        "sfsymbol": "wind",
+        "name": "Wind",
+        "category": "Nature",
+        "keywords": "wind breezy weather"
+    },
+    {
+        "sfsymbol": "flame.fill",
+        "name": "Flame",
+        "category": "Nature",
+        "keywords": "flame fire heat"
+    },
+    {
+        "sfsymbol": "drop.fill",
+        "name": "Drop",
+        "category": "Nature",
+        "keywords": "drop water rain"
+    },
+    {
+        "sfsymbol": "leaf.fill",
+        "name": "Leaf",
+        "category": "Nature",
+        "keywords": "leaf nature green"
+    },
+    {
+        "sfsymbol": "tree.fill",
+        "name": "Tree",
+        "category": "Nature",
+        "keywords": "tree nature"
+    },
+    {
+        "sfsymbol": "tornado",
+        "name": "Tornado",
+        "category": "Nature",
+        "keywords": "tornado storm"
+    },
+    {
+        "sfsymbol": "figure.walk",
+        "name": "Walking Figure",
+        "category": "Maps",
+        "keywords": "walk walking figure person"
+    },
+    {
+        "sfsymbol": "figure.wave",
+        "name": "Waving Figure",
+        "category": "Maps",
+        "keywords": "wave waving figure person"
+    },
+    {
+        "sfsymbol": "location.fill",
+        "name": "Location",
+        "category": "Maps",
+        "keywords": "location map pin marker"
+    },
+    {
+        "sfsymbol": "mappin",
+        "name": "Map Pin",
+        "category": "Maps",
+        "keywords": "map pin location marker"
+    },
+    {
+        "sfsymbol": "map.fill",
+        "name": "Map",
+        "category": "Maps",
+        "keywords": "map location navigation"
+    },
+    {
+        "sfsymbol": "fuelpump.fill",
+        "name": "Fuel Pump",
+        "category": "Maps",
+        "keywords": "fuel pump gas station"
+    },
+    {
+        "sfsymbol": "licenseplate.fill",
+        "name": "License Plate",
+        "category": "Maps",
+        "keywords": "license plate car number"
+    },
+    {
+        "sfsymbol": "ev.plug.ac.gb.t.fill",
+        "name": "EV Charging Station",
+        "category": "Maps",
+        "keywords": "EV electric vehicle charging station"
+    },
+    {
+        "sfsymbol": "binoculars.fill",
+        "name": "Binoculars",
+        "category": "Maps",
+        "keywords": "binoculars zoom view"
+    },
+    {
+        "sfsymbol": "arrow.triangle.turn.up.right.diamond.fill",
+        "name": "Turn Right Arrow",
+        "category": "Maps",
+        "keywords": "arrow turn right direction"
+    },
+    {
+        "sfsymbol": "arrow.triangle.turn.up.right.circle.fill",
+        "name": "Turn Right Arrow (Circle)",
+        "category": "Maps",
+        "keywords": "arrow turn right direction circle"
+    },
+    {
+        "sfsymbol": "arrow.up.and.down.and.arrow.left.and.right",
+        "name": "Direction Arrows",
+        "category": "Maps",
+        "keywords": "arrows direction navigation"
+    },
+    {
+        "sfsymbol": "pencil.slash",
+        "name": "Disabled Pencil",
+        "category": "Tools",
+        "keywords": "pencil disabled edit"
+    },
+    {
+        "sfsymbol": "eraser.fill",
+        "name": "Eraser",
+        "category": "Tools",
+        "keywords": "eraser delete remove"
+    },
+    {
+        "sfsymbol": "pencil.and.scribble",
+        "name": "Pencil and Scribble",
+        "category": "Tools",
+        "keywords": "pencil scribble draw"
+    },
+    {
+        "sfsymbol": "trash.fill",
+        "name": "Trash Bin",
+        "category": "Tools",
+        "keywords": "trash delete remove"
+    },
+    {
+        "sfsymbol": "folder.fill",
+        "name": "Folder",
+        "category": "Tools",
+        "keywords": "folder directory"
+    },
+    {
+        "sfsymbol": "paperplane.fill",
+        "name": "Paper Plane",
+        "category": "Tools",
+        "keywords": "paper plane send"
+    },
+    {
+        "sfsymbol": "tray.full.fill",
+        "name": "Full Tray",
+        "category": "Tools",
+        "keywords": "tray full"
+    },
+    {
+        "sfsymbol": "externaldrive.fill",
+        "name": "External Drive",
+        "category": "Tools",
+        "keywords": "external drive storage"
+    },
+    {
+        "sfsymbol": "archivebox.fill",
+        "name": "Archive Box",
+        "category": "Tools",
+        "keywords": "archive box storage"
+    },
+    {
+        "sfsymbol": "doc.fill",
+        "name": "Document",
+        "category": "Tools",
+        "keywords": "document file"
+    },
+    {
+        "sfsymbol": "clipboard.fill",
+        "name": "Clipboard",
+        "category": "Tools",
+        "keywords": "clipboard copy paste"
+    },
+    {
+        "sfsymbol": "book.fill",
+        "name": "Book",
+        "category": "Tools",
+        "keywords": "book reading"
+    },
+    {
+        "sfsymbol": "books.vertical.fill",
+        "name": "Vertical Books",
+        "category": "Tools",
+        "keywords": "books reading"
+    },
+    {
+        "sfsymbol": "bookmark.fill",
+        "name": "Bookmark",
+        "category": "Tools",
+        "keywords": "bookmark save"
+    },
+    {
+        "sfsymbol": "graduationcap.fill",
+        "name": "Graduation Cap",
+        "category": "Tools",
+        "keywords": "graduation cap education"
+    },
+    {
+        "sfsymbol": "pencil.and.ruler.fill",
+        "name": "Pencil and Ruler",
+        "category": "Tools",
+        "keywords": "pencil ruler draw"
+    },
+    {
+        "sfsymbol": "backpack.fill",
+        "name": "Backpack",
+        "category": "Tools",
+        "keywords": "backpack travel"
+    },
+    {
+        "sfsymbol": "trophy.fill",
+        "name": "Trophy",
+        "category": "Tools",
+        "keywords": "trophy achievement"
+    },
+    {
+        "sfsymbol": "medal.fill",
+        "name": "Medal",
+        "category": "Tools",
+        "keywords": "medal award"
+    },
+    {
+        "sfsymbol": "beach.umbrella.fill",
+        "name": "Beach Umbrella",
+        "category": "Tools",
+        "keywords": "beach umbrella"
+    },
+    {
+        "sfsymbol": "umbrella.fill",
+        "name": "Umbrella",
+        "category": "Tools",
+        "keywords": "umbrella rain"
+    },
+    {
+        "sfsymbol": "megaphone.fill",
+        "name": "Megaphone",
+        "category": "Tools",
+        "keywords": "megaphone announce"
+    },
+    {
+        "sfsymbol": "speaker.fill",
+        "name": "Speaker",
+        "category": "Tools",
+        "keywords": "speaker sound"
+    },
+    {
+        "sfsymbol": "speaker.slash.fill",
+        "name": "Muted Speaker",
+        "category": "Tools",
+        "keywords": "speaker mute"
+    },
+    {
+        "sfsymbol": "speaker.wave.2.fill",
+        "name": "Speaker with Sound Waves",
+        "category": "Tools",
+        "keywords": "speaker sound waves"
+    },
+    {
+        "sfsymbol": "music.mic",
+        "name": "Microphone",
+        "category": "Tools",
+        "keywords": "microphone music"
+    },
+    {
+        "sfsymbol": "magnifyingglass",
+        "name": "Magnifying Glass",
+        "category": "Tools",
+        "keywords": "magnifying glass search"
+    },
+    {
+        "sfsymbol": "shield.fill",
+        "name": "Shield",
+        "category": "Tools",
+        "keywords": "shield protection"
+    },
+    {
+        "sfsymbol": "flag.fill",
+        "name": "Flag",
+        "category": "Tools",
+        "keywords": "flag nation"
+    },
+    {
+        "sfsymbol": "flag.checkered",
+        "name": "Checkered Flag",
+        "category": "Tools",
+        "keywords": "flag race"
+    },
+    {
+        "sfsymbol": "flag.2.crossed.fill",
+        "name": "Crossed Flags",
+        "category": "Tools",
+        "keywords": "flags celebration"
+    },
+    {
+        "sfsymbol": "bell.fill",
+        "name": "Bell",
+        "category": "Tools",
+        "keywords": "bell notification"
+    },
+    {
+        "sfsymbol": "tag.fill",
+        "name": "Tag",
+        "category": "Tools",
+        "keywords": "tag label"
+    },
+    {
+        "sfsymbol": "flashlight.off.fill",
+        "name": "Flashlight Off",
+        "category": "Tools",
+        "keywords": "flashlight light"
+    },
+    {
+        "sfsymbol": "camera.fill",
+        "name": "Camera",
+        "category": "Tools",
+        "keywords": "camera photography"
+    },
+    {
+        "sfsymbol": "gear",
+        "name": "Gear",
+        "category": "Tools",
+        "keywords": "gear settings"
+    },
+    {
+        "sfsymbol": "scissors",
+        "name": "Scissors",
+        "category": "Tools",
+        "keywords": "scissors cut"
+    },
+    {
+        "sfsymbol": "bag.fill",
+        "name": "Bag",
+        "category": "Tools",
+        "keywords": "bag luggage"
+    },
+    {
+        "sfsymbol": "cart.fill",
+        "name": "Shopping Cart",
+        "category": "Tools",
+        "keywords": "cart shopping"
+    },
+    {
+        "sfsymbol": "creditcard.fill",
+        "name": "Credit Card",
+        "category": "Tools",
+        "keywords": "credit card payment"
+    },
+    {
+        "sfsymbol": "pianokeys.inverse",
+        "name": "Piano Keys",
+        "category": "Tools",
+        "keywords": "piano keys music"
+    },
+    {
+        "sfsymbol": "tuningfork",
+        "name": "Tuning Fork",
+        "category": "Tools",
+        "keywords": "tuning fork music"
+    },
+    {
+        "sfsymbol": "printer.fill",
+        "name": "Printer",
+        "category": "Tools",
+        "keywords": "printer printing"
+    },
+    {
+        "sfsymbol": "stethoscope",
+        "name": "Stethoscope",
+        "category": "Tools",
+        "keywords": "stethoscope medical"
+    },
+    {
+        "sfsymbol": "theatermasks.fill",
+        "name": "Theater Masks",
+        "category": "Tools",
+        "keywords": "theater masks drama"
+    },
+    {
+        "sfsymbol": "lightbulb.led.fill",
+        "name": "LED Lightbulb",
+        "category": "Tools",
+        "keywords": "lightbulb led"
+    },
+    {
+        "sfsymbol": "fan.fill",
+        "name": "Fan",
+        "category": "Tools",
+        "keywords": "fan cooling"
+    },
+    {
+        "sfsymbol": "lamp.floor.fill",
+        "name": "Floor Lamp",
+        "category": "Tools",
+        "keywords": "lamp light"
+    },
+    {
+        "sfsymbol": "fan.ceiling.fill",
+        "name": "Ceiling Fan",
+        "category": "Tools",
+        "keywords": "fan cooling"
+    },
+    {
+        "sfsymbol": "party.popper.fill",
+        "name": "Party Popper",
+        "category": "Tools",
+        "keywords": "party popper celebration"
+    },
+    {
+        "sfsymbol": "balloon.fill",
+        "name": "Balloon",
+        "category": "Tools",
+        "keywords": "balloon celebration"
+    },
+    {
+        "sfsymbol": "laser.burst",
+        "name": "Laser Burst",
+        "category": "Tools",
+        "keywords": "laser burst"
+    },
+    {
+        "sfsymbol": "popcorn.fill",
+        "name": "Popcorn",
+        "category": "Tools",
+        "keywords": "popcorn snack"
+    },
+    {
+        "sfsymbol": "chair.fill",
+        "name": "Chair",
+        "category": "Tools",
+        "keywords": "chair furniture"
+    },
+    {
+        "sfsymbol": "fireplace.fill",
+        "name": "Fireplace",
+        "category": "Tools",
+        "keywords": "fireplace warmth"
+    },
+    {
+        "sfsymbol": "sink.fill",
+        "name": "Sink",
+        "category": "Tools",
+        "keywords": "sink bathroom"
+    },
+    {
+        "sfsymbol": "tent.fill",
+        "name": "Tent",
+        "category": "Tools",
+        "keywords": "tent camping"
+    },
+    {
+        "sfsymbol": "pin.fill",
+        "name": "Pin",
+        "category": "Tools",
+        "keywords": "pin location"
+    },
+    {
+        "sfsymbol": "memorychip.fill",
+        "name": "Memory Chip",
+        "category": "Tools",
+        "keywords": "memory chip storage"
+    },
+    {
+        "sfsymbol": "cpu.fill",
+        "name": "CPU",
+        "category": "Tools",
+        "keywords": "CPU processor"
+    },
+    {
+        "sfsymbol": "tshirt.fill",
+        "name": "T-Shirt",
+        "category": "Tools",
+        "keywords": "t-shirt clothing"
+    },
+    {
+        "sfsymbol": "shoe.fill",
+        "name": "Shoe",
+        "category": "Tools",
+        "keywords": "shoe footwear"
+    },
+    {
+        "sfsymbol": "shippingbox.fill",
+        "name": "Shipping Box",
+        "category": "Tools",
+        "keywords": "shipping box package"
+    },
+    {
+        "sfsymbol": "film.fill",
+        "name": "Film Reel",
+        "category": "Tools",
+        "keywords": "film movie"
+    },
+    {
+        "sfsymbol": "stopwatch.fill",
+        "name": "Stopwatch",
+        "category": "Tools",
+        "keywords": "stopwatch time"
+    },
+    {
+        "sfsymbol": "wineglass.fill",
+        "name": "Wine Glass",
+        "category": "Tools",
+        "keywords": "wine glass drink"
+    },
+    {
+        "sfsymbol": "birthday.cake.fill",
+        "name": "Birthday Cake",
+        "category": "Tools",
+        "keywords": "birthday cake celebration"
+    },
+    {
+        "sfsymbol": "fork.knife",
+        "name": "Fork and Knife",
+        "category": "Tools",
+        "keywords": "fork knife cutlery"
+    },
+    {
+        "sfsymbol": "gift.fill",
+        "name": "Gift",
+        "category": "Tools",
+        "keywords": "gift present"
+    },
+    {
+        "sfsymbol": "battery.50percent",
+        "name": "Battery Half Full",
+        "category": "Tools",
+        "keywords": "battery power"
+    },
+    {
+        "sfsymbol": "dumbbell.fill",
+        "name": "Dumbbell",
+        "category": "Sports",
+        "keywords": "dumbbell gym fitness"
+    },
+    {
+        "sfsymbol": "soccerball",
+        "name": "Soccer Ball",
+        "category": "Sports",
+        "keywords": "soccer ball football"
+    },
+    {
+        "sfsymbol": "baseball.fill",
+        "name": "Baseball",
+        "category": "Sports",
+        "keywords": "baseball sport"
+    },
+    {
+        "sfsymbol": "basketball.fill",
+        "name": "Basketball",
+        "category": "Sports",
+        "keywords": "basketball sport"
+    },
+    {
+        "sfsymbol": "football.fill",
+        "name": "Football",
+        "category": "Sports",
+        "keywords": "football sport"
+    },
+    {
+        "sfsymbol": "tennis.racket",
+        "name": "Tennis Racket",
+        "category": "Sports",
+        "keywords": "tennis racket sport"
+    },
+    {
+        "sfsymbol": "hockey.puck.fill",
+        "name": "Hockey Puck",
+        "category": "Sports",
+        "keywords": "hockey puck sport"
+    },
+    {
+        "sfsymbol": "cricket.ball.fill",
+        "name": "Cricket Ball",
+        "category": "Sports",
+        "keywords": "cricket ball sport"
+    },
+    {
+        "sfsymbol": "tennisball.fill",
+        "name": "Tennis Ball",
+        "category": "Sports",
+        "keywords": "tennis ball sport"
+    },
+    {
+        "sfsymbol": "volleyball.fill",
+        "name": "Volleyball",
+        "category": "Sports",
+        "keywords": "volleyball sport"
+    },
+    {
+        "sfsymbol": "skateboard.fill",
+        "name": "Skateboard",
+        "category": "Sports",
+        "keywords": "skateboard sport"
+    },
+    {
+        "sfsymbol": "snowboard.fill",
+        "name": "Snowboard",
+        "category": "Sports",
+        "keywords": "snowboard sport"
+    },
+    {
+        "sfsymbol": "surfboard.fill",
+        "name": "Surfboard",
+        "category": "Sports",
+        "keywords": "surfboard sport"
+    },
+    {
+        "sfsymbol": "figure.walk.motion",
+        "name": "Walking Motion",
+        "category": "Sports",
+        "keywords": "walking motion sport"
+    },
+    {
+        "sfsymbol": "figure.run",
+        "name": "Running",
+        "category": "Sports",
+        "keywords": "running sport"
+    },
+    {
+        "sfsymbol": "figure.archery",
+        "name": "Archery",
+        "category": "Sports",
+        "keywords": "archery sport"
+    },
+    {
+        "sfsymbol": "figure.australian.football",
+        "name": "Australian Football",
+        "category": "Sports",
+        "keywords": "australian football sport"
+    },
+    {
+        "sfsymbol": "figure.badminton",
+        "name": "Badminton",
+        "category": "Sports",
+        "keywords": "badminton sport"
+    },
+    {
+        "sfsymbol": "figure.core.training",
+        "name": "Core Training",
+        "category": "Sports",
+        "keywords": "core training exercise sport"
+    },
+    {
+        "sfsymbol": "figure.climbing",
+        "name": "Climbing",
+        "category": "Sports",
+        "keywords": "climbing sport"
+    },
+    {
+        "sfsymbol": "figure.skiing.downhill",
+        "name": "Downhill Skiing",
+        "category": "Sports",
+        "keywords": "downhill skiing sport"
+    },
+    {
+        "sfsymbol": "figure.socialdance",
+        "name": "Social Dance",
+        "category": "Sports",
+        "keywords": "social dance dancing sport"
+    },
+    {
+        "sfsymbol": "figure.strengthtraining.traditional",
+        "name": "Traditional Strength Training",
+        "category": "Sports",
+        "keywords": "strength training exercise sport"
+    },
+    {
+        "sfsymbol": "keyboard.fill",
+        "name": "Keyboard",
+        "category": "Devices",
+        "keywords": "keyboard typing input device"
+    },
+    {
+        "sfsymbol": "printer.fill",
+        "name": "Printer",
+        "category": "Devices",
+        "keywords": "printer printing"
+    },
+    {
+        "sfsymbol": "scanner.fill",
+        "name": "Scanner",
+        "category": "Devices",
+        "keywords": "scanner scanning"
+    },
+    {
+        "sfsymbol": "display",
+        "name": "Display",
+        "category": "Devices",
+        "keywords": "display screen monitor"
+    },
+    {
+        "sfsymbol": "candybarphone",
+        "name": "Candy Bar Phone",
+        "category": "Devices",
+        "keywords": "candy bar phone mobile"
+    },
+    {
+        "sfsymbol": "smartphone",
+        "name": "Smartphone",
+        "category": "Devices",
+        "keywords": "smartphone mobile phone"
+    },
+    {
+        "sfsymbol": "computermouse.fill",
+        "name": "Computer Mouse",
+        "category": "Devices",
+        "keywords": "computer mouse input device"
+    },
+    {
+        "sfsymbol": "headphones",
+        "name": "Headphones",
+        "category": "Devices",
+        "keywords": "headphones audio"
+    },
+    {
+        "sfsymbol": "earbuds",
+        "name": "Earbuds",
+        "category": "Devices",
+        "keywords": "earbuds audio"
+    },
+    {
+        "sfsymbol": "hifispeaker.fill",
+        "name": "Hi-Fi Speaker",
+        "category": "Devices",
+        "keywords": "hi-fi speaker audio"
+    },
+    {
+        "sfsymbol": "arcade.stick.console.fill",
+        "name": "Arcade Stick",
+        "category": "Devices",
+        "keywords": "arcade stick gaming"
+    },
+    {
+        "sfsymbol": "gamecontroller.fill",
+        "name": "Game Controller",
+        "category": "Devices",
+        "keywords": "game controller gaming"
+    },
+    {
+        "sfsymbol": "tv",
+        "name": "Television",
+        "category": "Devices",
+        "keywords": "television TV"
+    },
+    {
+        "sfsymbol": "laptopcomputer",
+        "name": "Laptop Computer",
+        "category": "Devices",
+        "keywords": "laptop computer"
+    },
+    {
+        "sfsymbol": "personalhotspot",
+        "name": "Personal Hotspot",
+        "category": "Connectivity",
+        "keywords": "personal hotspot internet tethering"
+    },
+    {
+        "sfsymbol": "network",
+        "name": "Network",
+        "category": "Connectivity",
+        "keywords": "network connectivity"
+    },
+    {
+        "sfsymbol": "wifi",
+        "name": "Wi-Fi",
+        "category": "Connectivity",
+        "keywords": "Wi-Fi wireless internet"
+    },
+    {
+        "sfsymbol": "dot.radiowaves.right",
+        "name": "Radio Waves",
+        "category": "Connectivity",
+        "keywords": "radio waves signal"
+    },
+    {
+        "sfsymbol": "wave.3.right",
+        "name": "Wave",
+        "category": "Connectivity",
+        "keywords": "wave signal"
+    },
+    {
+        "sfsymbol": "cellularbars",
+        "name": "Cellular Bars",
+        "category": "Connectivity",
+        "keywords": "cellular bars signal"
+    },
+    {
+        "sfsymbol": "wave.3.forward.circle.fill",
+        "name": "Forward Circle Wave",
+        "category": "Connectivity",
+        "keywords": "forward circle wave signal"
+    },
+    {
+        "sfsymbol": "car.fill",
+        "name": "Car",
+        "category": "Transport",
+        "keywords": "car vehicle transport"
+    },
+    {
+        "sfsymbol": "bus",
+        "name": "Bus",
+        "category": "Transport",
+        "keywords": "bus vehicle transport"
+    },
+    {
+        "sfsymbol": "bicycle",
+        "name": "Bicycle",
+        "category": "Transport",
+        "keywords": "bicycle bike transport"
+    },
+    {
+        "sfsymbol": "tram",
+        "name": "Tram",
+        "category": "Transport",
+        "keywords": "tram transport public"
+    },
+    {
+        "sfsymbol": "figure.walk",
+        "name": "Walking",
+        "category": "Transport",
+        "keywords": "walking pedestrian"
+    },
+    {
+        "sfsymbol": "airplane",
+        "name": "Airplane",
+        "category": "Transport",
+        "keywords": "airplane flight"
+    },
+    {
+        "sfsymbol": "lightrail.fill",
+        "name": "Light Rail",
+        "category": "Transport",
+        "keywords": "light rail train transportation"
+    },
+    {
+        "sfsymbol": "ferry.fill",
+        "name": "Ferry",
+        "category": "Transport",
+        "keywords": "ferry boat transportation"
+    },
+    {
+        "sfsymbol": "sailboat.fill",
+        "name": "Sailboat",
+        "category": "Transport",
+        "keywords": "sailboat boat sailing transportation"
+    },
+    {
+        "sfsymbol": "truck.box.fill",
+        "name": "Truck",
+        "category": "Transport",
+        "keywords": "truck transportation"
+    },
+    {
+        "sfsymbol": "scooter",
+        "name": "Scooter",
+        "category": "Transport",
+        "keywords": "scooter transportation"
+    },
+    {
+        "sfsymbol": "play.fill",
+        "name": "Play",
+        "category": "Media",
+        "keywords": "play media"
+    },
+    {
+        "sfsymbol": "pause.fill",
+        "name": "Pause",
+        "category": "Media",
+        "keywords": "pause media"
+    },
+    {
+        "sfsymbol": "stop.fill",
+        "name": "Stop",
+        "category": "Media",
+        "keywords": "stop media"
+    },
+    {
+        "sfsymbol": "record.circle.fill",
+        "name": "Record",
+        "category": "Media",
+        "keywords": "record media"
+    },
+    {
+        "sfsymbol": "forward.fill",
+        "name": "Forward",
+        "category": "Media",
+        "keywords": "forward media"
+    },
+    {
+        "sfsymbol": "backward.fill",
+        "name": "Backward",
+        "category": "Media",
+        "keywords": "backward media"
+    },
+    {
+        "sfsymbol": "forward.end.fill",
+        "name": "End Forward",
+        "category": "Media",
+        "keywords": "end forward media"
+    },
+    {
+        "sfsymbol": "backward.end.fill",
+        "name": "End Backward",
+        "category": "Media",
+        "keywords": "end backward media"
+    },
+    {
+        "sfsymbol": "shuffle",
+        "name": "Shuffle",
+        "category": "Media",
+        "keywords": "shuffle media"
+    },
+    {
+        "sfsymbol": "repeat",
+        "name": "Repeat",
+        "category": "Media",
+        "keywords": "repeat media"
+    },
+    {
+        "sfsymbol": "arrow.rectanglepath",
+        "name": "Rectangle Arrow",
+        "category": "Media",
+        "keywords": "rectangle arrow media"
+    },
+    {
+        "sfsymbol": "infinity",
+        "name": "Infinity",
+        "category": "Media",
+        "keywords": "infinity media"
+    }
+]
