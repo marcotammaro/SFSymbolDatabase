@@ -60,9 +60,9 @@
         "sfsymbol": "app.gift"
     },
     {
-        "category": "",
+        "category": "Tools",
         "sfsymbol": "app.gift.fill",
-        "keywords": "Tools",
+        "keywords": "",
         "name": "App Gift Fill"
     },
     {
@@ -978,8 +978,8 @@
         "sfsymbol": "door.garage.double.bay.closed"
     },
     {
-        "category": "",
-        "keywords": "Home",
+        "category": "Home",
+        "keywords": "",
         "sfsymbol": "door.right.hand.closed",
         "name": "Door Right Hand Closed"
     },
@@ -997,7 +997,7 @@
     },
     {
         "name": "Drop Fill",
-        "category": "",
+        "category": "Nature",
         "keywords": "blood oil water",
         "sfsymbol": "drop.fill"
     },
@@ -1005,7 +1005,7 @@
         "sfsymbol": "drop.triangle.fill",
         "keywords": "blood oil water",
         "name": "Drop Triangle Fill",
-        "category": ""
+        "category": "Symbols"
     },
     {
         "sfsymbol": "dumbbell.fill",
@@ -1081,7 +1081,7 @@
     },
     {
         "keywords": "=",
-        "category": "",
+        "category": "Symbols",
         "name": "Equal Square Fill",
         "sfsymbol": "equal.square.fill"
     },
@@ -1093,9 +1093,9 @@
     },
     {
         "name": "Escape",
-        "category": "",
+        "category": "Symbols",
         "sfsymbol": "escape",
-        "keywords": "Devices"
+        "keywords": ""
     },
     {
         "sfsymbol": "exclamationmark.bubble.fill",
@@ -2976,8 +2976,8 @@
         "keywords": ""
     },
     {
-        "keywords": "Symbols",
-        "category": "",
+        "keywords": "",
+        "category": "Symbols",
         "name": "Shift Fill",
         "sfsymbol": "shift.fill"
     },
