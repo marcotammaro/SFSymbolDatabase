@@ -1,3 +1,20 @@
 {
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "categories": [
+    "Other",
+    "Vehicles",
+    "Tools",
+    "Devices",
+    "Music",
+    "Animals",
+    "Nature",
+    "Arrows",
+    "Business",
+    "Sports",
+    "Entertainment",
+    "Medical",
+    "Communication",
+    "Home",
+    "Symbols"
+  ]
 }
